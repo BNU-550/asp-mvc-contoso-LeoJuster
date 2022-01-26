@@ -162,3 +162,4 @@ C:\Users\SUCCESS TEMPLE\source\repos\asp-mvc-contoso-LeoJuster\ASP-MVC-CONTOSO\A
 C:\Users\SUCCESS TEMPLE\source\repos\asp-mvc-contoso-LeoJuster\ASP-MVC-CONTOSO\ASP-MVC-CONTOSO\obj\Debug\net5.0\Razor\Views\Students\Details.cshtml.g.cs
 C:\Users\SUCCESS TEMPLE\source\repos\asp-mvc-contoso-LeoJuster\ASP-MVC-CONTOSO\ASP-MVC-CONTOSO\obj\Debug\net5.0\Razor\Views\Students\Edit.cshtml.g.cs
 C:\Users\SUCCESS TEMPLE\source\repos\asp-mvc-contoso-LeoJuster\ASP-MVC-CONTOSO\ASP-MVC-CONTOSO\obj\Debug\net5.0\Razor\Views\Students\Index.cshtml.g.cs
+C:\Users\SUCCESS TEMPLE\source\repos\asp-mvc-contoso-LeoJuster\ASP-MVC-CONTOSO\ASP-MVC-CONTOSO\obj\Debug\net5.0\Razor\Views\Home\About.cshtml.g.cs
